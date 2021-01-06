@@ -47,7 +47,7 @@
     "@material-ui/core": "^5.0.0-alpha.15",
     "@material-ui/icons": "^4.9.1",
     "@sendgrid/mail": "^7.2.2",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "b5-calculate-score": "1.0.4",
     "babel-eslint": "10.1.0",
     "chart.js": "^2.9.4",
